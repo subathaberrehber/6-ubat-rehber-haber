@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6 Şubat Dijital Rehber</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; background-color: #f4f6f8; }
+        h1 { color: #d63031; }
+        p { color: #636e72; }
+    </style>
+</head>
+<body>
+    <h1>6 Şubat Dijital Rehber</h1>
+    <p>Şehrin dijital rehberi ve acil durum merkezi çok yakında yayında.</p>
+</body>
+</html>
